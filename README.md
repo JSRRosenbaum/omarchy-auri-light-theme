@@ -20,10 +20,10 @@ Warm near-white backgrounds and darker, chromatic ANSI colors preserve readable 
 
 ## Four wallpapers
 
-- **Omarchy Porcelain**: genuine upstream wordmark in ocean ink on a locally rendered ivory field, restrained rose-gold arc.
-- **Auri Porcelain**: locally drawn vector-like star and offset-square emblem; no AI regeneration or image inversion.
+- **Omarchy Opal**: genuine upstream wordmark in ocean ink, composited over pearl glass, rainlight, warm stone and rose-gold inlay.
+- **Auri Opal**: star and offset-square emblem in luminous porcelain, framed by broad iridescent glass forms and window shadows.
 - **Foyer** and **Atelier**: existing Sunburst Max artwork, reused unchanged. These are the warm architectural/character alternatives; the logos are the quieter choices. Atelier remains a tight panoramic portrait crop.
 
-All are 5120×1440 (32:9). Logo wallpapers are rendered at final dimensions. Scene originals were generated at 3840×1280, cropped and upscaled—not native 5K. No new image API spend was incurred for this variant. The original dark Auri collection remains independent.
+All are 5120×1440 (32:9). Sunburst Max originals were generated at 3840×1280, cropped and upscaled—not native 5K. The two opal logo compositions replace the initial flat porcelain designs; their stable filenames retain the porcelain label for continuity. Rich materials, simple forms, no image inversion. The original dark Auri collection remains independent.
 
 Omarchy logo attribution and upstream license are retained in `credits/`. No official endorsement or blanket license to third-party marks is implied.
